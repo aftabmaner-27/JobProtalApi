@@ -1,0 +1,96 @@
+{
+    "Result": {
+        "JobList": [
+            {
+                "Position": "Driver",
+                "Location": "Kothrud",
+                "Work": "full time",
+                "Salary": "15000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Pimpri",
+                "Work": "full time",
+                "Salary": "19000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Swarget",
+                "Work": "full time",
+                "Salary": "12000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Chakan",
+                "Work": "full time",
+                "Salary": "18000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Kothrud",
+                "Work": "full time",
+                "Salary": "15000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Kothrud",
+                "Work": "full time",
+                "Salary": "15000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Pimpri",
+                "Work": "full time",
+                "Salary": "19000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Kothrud",
+                "Work": "full time",
+                "Salary": "15000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Kothrud",
+                "Work": "full time",
+                "Salary": "15000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Kothrud",
+                "Work": "full time",
+                "Salary": "15000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Kothrud",
+                "Work": "full time",
+                "Salary": "15000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Pimpri",
+                "Work": "full time",
+                "Salary": "19000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Kothrud",
+                "Work": "full time",
+                "Salary": "15000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Kothrud",
+                "Work": "full time",
+                "Salary": "15000"
+            },
+            {
+                "Position": "Driver",
+                "Location": "Kothrud",
+                "Work": "full time",
+                "Salary": "15000"
+            }
+        ]
+    }
+}
